@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Converter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add">New Conversion</string>
+
+    <string name="from_text">Convert From Units:</string>
+    <string name="to_text">To Units:</string>
+    <string name="factor_text">Multiply By:</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_convert">Convert</string>
+    <string name="btn_delete">Delete Conversion</string>
+</resources>
